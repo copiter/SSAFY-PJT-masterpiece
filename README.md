@@ -1,5 +1,5 @@
 # 🏷️ rnasterpiece - 나만의 한글 NFT 플랫폼
-![logo](https://user-images.githubusercontent.com/99804262/210190288-b84a74f5-ffc7-4b6d-adc5-34bfda49f29d.png)
+![logo](https://user-images.githubusercontent.com/99804262/210190288-b84a74f5-ffc7-4b6d-adc5-34bfda49f29d.png =250x)
 
 
 ## 👉 [rnasterpiece Web Page Link](https://j7a508.p.ssafy.io)
